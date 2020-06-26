@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e1df8416-1547-4123-89f1-fc1800512e6d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="item-swap" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="item-swap" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="item-swap" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+                <item name="compileClasspath" type="62daadca:ExternalSystemViewDefaultContributor$DependencyScopeExternalSystemNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dpW8jdxHTDgPhKVxJAHkryRw3g" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ApplicationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="item-swap.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.elaurendeau.itemswap.application.ApplicationKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ApplicationKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1df8416-1547-4123-89f1-fc1800512e6d" name="Default Changelist" comment="" />
+      <created>1593122359124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593122359124</updated>
+      <workItem from="1593122360461" duration="189000" />
+      <workItem from="1593122569632" duration="9864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="974" y="409" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593132529223">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="974" y="409" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593132529223" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1593133784473">
+      <screen x="2560" y="111" width="1920" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.bottom/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593133259120" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/2560.111.1920.1040/0.0.2560.1400@2560.111.1920.1040" timestamp="1593133784473" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1593133784473">
+      <screen x="2560" y="111" width="1920" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.center/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593133259120" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/2560.111.1920.1040/0.0.2560.1400@2560.111.1920.1040" timestamp="1593133784473" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1593133784473">
+      <screen x="2560" y="111" width="1920" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.left/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593133259120" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/2560.111.1920.1040/0.0.2560.1400@2560.111.1920.1040" timestamp="1593133784473" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1593133784473">
+      <screen x="2560" y="111" width="1920" height="1040" />
+    </state>
+    <state width="2517" height="282" key="GridCell.Tab.0.right/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593133259120" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/2560.111.1920.1040/0.0.2560.1400@2560.111.1920.1040" timestamp="1593133784473" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1593133571136">
+      <screen x="2560" y="111" width="1920" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.bottom/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593124983049" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/2560.111.1920.1040/0.0.2560.1400@2560.111.1920.1040" timestamp="1593133571136" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1593133571136">
+      <screen x="2560" y="111" width="1920" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.center/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593124983049" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/2560.111.1920.1040/0.0.2560.1400@2560.111.1920.1040" timestamp="1593133571136" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1593133571136">
+      <screen x="2560" y="111" width="1920" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.left/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593124983049" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/2560.111.1920.1040/0.0.2560.1400@2560.111.1920.1040" timestamp="1593133571136" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1593133571136">
+      <screen x="2560" y="111" width="1920" height="1040" />
+    </state>
+    <state width="2517" height="348" key="GridCell.Tab.1.right/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593124983049" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/2560.111.1920.1040/0.0.2560.1400@2560.111.1920.1040" timestamp="1593133571136" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1593123067668">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593123067668" />
+    <state x="1059" y="544" key="cloudConfig.PluginsDialog" timestamp="1593122531397">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1059" y="544" key="cloudConfig.PluginsDialog/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593122531397" />
+    <state x="1152" y="544" width="674" height="311" key="cloudConfig.SelfSettingsDialog" timestamp="1593122480687">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1152" y="544" width="674" height="311" key="cloudConfig.SelfSettingsDialog/2560.111.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1593122480687" />
+    <state x="3071" y="360" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593126528620">
+      <screen x="2560" y="111" width="1920" height="1040" />
+    </state>
+    <state x="3071" y="360" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/2560.111.1920.1040/0.0.2560.1400@2560.111.1920.1040" timestamp="1593126528620" />
+    <state x="3183" y="336" width="672" height="678" key="search.everywhere.popup" timestamp="1593125904815">
+      <screen x="2560" y="111" width="1920" height="1040" />
+    </state>
+    <state x="3183" y="336" width="672" height="678" key="search.everywhere.popup/2560.111.1920.1040/0.0.2560.1400@2560.111.1920.1040" timestamp="1593125904815" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/com/elaurendeau/itemswap/executionflow/ItemSwapExecutionFlow.kt</url>
+          <line>45</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

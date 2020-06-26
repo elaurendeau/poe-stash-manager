@@ -30,6 +30,7 @@ dependencies {
     compile group: 'org.apache.logging.log4j', name: 'log4j-slf4j-impl', version: '2.13.3'
 // https://mvnrepository.com/artifact/org.slf4j/jul-to-slf4j
     compile group: 'org.slf4j', name: 'jul-to-slf4j', version: '1.7.30'
+    compile 'co.metalab.asyncawait:asyncawait:1.0.0'
 
     // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-jul
     compile group: 'org.apache.logging.log4j', name: 'log4j-jul', version: '2.13.3'
