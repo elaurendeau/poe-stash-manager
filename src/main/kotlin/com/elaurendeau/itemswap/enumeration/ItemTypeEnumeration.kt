@@ -46,5 +46,16 @@ enum class ItemTypeEnumeration(val itemName: String, val stashPosition: Position
             isCurrentType = { description: String ->
                 description.contains("Rarity: Currency") && description.contains("Essence")
             }),
-
+    ORGAN(itemName = "ORGAN",
+            priority = 1,
+            stashPosition = PositionEntity(1000, 480),
+            isCurrentType = { description: String ->
+                (description.contains("Rarity: Unique") && description.contains("Tane's Laboratory")) || (description.contains("Rarity: Currency") && description.contains("Catalyst"))
+            }),
+    OIL(itemName = "OIL",
+            priority = 1,
+            stashPosition = PositionEntity(1000, 570),
+            isCurrentType = { description: String ->
+                description.contains("Rarity: Currency") && description.contains("Oil")
+            }),
 }
